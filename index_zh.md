@@ -15,15 +15,16 @@ bachjin AT mail.ustc.edu.cn
 ## 研究经历
 --- 
 **Clustering IPv6 addresses in CDN networks**
-Mentor: Assoc. Prof. Kensuke Fukuda
+**Mentor: Assoc. Prof. Kensuke Fukuda**
 National Institute of Informatics
-Japan               July.2019   Sakura Science Plan
+Japan               July.2019   *Sakura Science Plan*
 
 -   obtained the IPv6 addresses of top 100
     websites on alexa top sites from probes 
     worldwide
 -   calculate the address distances between 
     probes and cluster them by those distances 
+-   obtained continent-level clusters
 
 ## 荣誉奖项
 ---
@@ -33,12 +34,16 @@ Japan               July.2019   Sakura Science Plan
 
 ## 课外活动
 ---
-中国科学技术大学学生交响乐团
+- 中国科学技术大学学生交响乐团
 （以下简称“交响乐团”）副团长
 2019年6月 - 至今
-交响乐团圆号手
+- 五四晚会 副导演
+2019年4月 - 5月
+- 交响乐团 圆号手
 2018年9月 - 2019年6月
-交响乐团小号手
+- 回到广东省参加社会实践
+2018年8月
+- 交响乐团 小号手
 2017年9月 - 2018年12月
 
 ## 技能
@@ -50,4 +55,4 @@ Japan               July.2019   Sakura Science Plan
 [Github](https://github.com/bachjin)
 [English](./index.html)
 
-Last Modified:11/19/2019
+Last Modified:Nov.27 2019
